@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.exe
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.deps.json
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.runtimeconfig.json
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.pdb
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\refint\ChainOfResponsability.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.pdb
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\Chain-Of-Responsability\ChainOfResponsability\obj\Debug\net8.0\ref\ChainOfResponsability.dll
